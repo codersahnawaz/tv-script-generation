@@ -1,1 +1,1 @@
-# tv-script-generation
+# Deep Learning Nanodegree Tv script generation project.
